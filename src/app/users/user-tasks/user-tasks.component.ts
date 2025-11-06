@@ -30,6 +30,14 @@ export class UserTasksComponent {
   // private usersService = inject(UsersService);
   // private activatedRoute = inject(ActivatedRoute);
 
+  // ngOnInit(): void {
+  //     this.activatedRoute.data.subscribe({
+  //       next: data => {
+  //         console.log(data);
+  //       }
+  //     })
+  // }
+
   // private destroyRef = inject(DestroyRef);
 
   // userName = computed(
